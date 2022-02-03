@@ -52,7 +52,7 @@ $listaUser = $cadPFS->getAllBD();
 
                                 <form action="editarPessoaF.php" method="POST"> 
                                     <input type="hidden" name="id" value="<?php echo $user['idPessoa']; ?>"/>  
-                                    <input type="submit" name="updatePF" value="Editar"/>
+                                    <input type="submit" name="updatePF" value="EditarPF"/>
                                 </form>
 
                             <?php }

@@ -28,7 +28,7 @@ $lis = $listaUser->getUsuarioById($id);
         <title>Editar Pessoa</title>
     </head>
     <body>
-        <h1>Editar Pessoa Física</h1>
+        <h1>Editar Pessoa Jurídica</h1>
         <form action="../controller/editPessoaJ.php" method="POST">
             <input type="hidden" value="<?php echo $lis[0]['idPessoa']; ?>" name="id"/>
             <input type="text" required value="<?php echo $lis[0]['nome']; ?>" name="nome"/>

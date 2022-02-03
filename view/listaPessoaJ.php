@@ -51,7 +51,7 @@ $listaUser = $cadPJS->getAllBD();
 
                                 <form action="editarPessoaJ.php" method="POST"> 
                                     <input type="hidden" name="id" value="<?php echo $user['idPessoa']; ?>"/>  
-                                    <input type="submit" name="updatePJ" value="Editar"/>
+                                    <input type="submit" name="updatePJ" value="EditarPJ"/>
                                 </form>
 
                             <?php }

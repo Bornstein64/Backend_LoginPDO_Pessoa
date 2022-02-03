@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/view/cadPessoaF.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/view/editPessoa.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/controller/cUsuario.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/view/login.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/controller/editUser.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/view/cadPessoaJ.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/view/listaPessoas.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/controller/deleteUser.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/index.php</file>
-            <file>file:/C:/xampp/htdocs/Backend_LoginPDO_Pessoa/controller/cLogin.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
